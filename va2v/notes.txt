@@ -1,0 +1,5 @@
+1) generate image with lustify v5 endgame (cfg 6.5, steps 60, 1024x1024,dpmpp_2m sampler, add_noise true)
+2) generate video with wan2.2 lightx2v lora, 640x640, 97 frames, 24 fps,  8 steps, sampler dpmpp_2m, noise on high, no noise on low
+3) extend the video with Stable Video Infinity, feed image and video,  force 640x640, 24fps, 97 new frames)
+4) TTS with kokoro
+5) Feed video and audio to Infinitealk workflow
