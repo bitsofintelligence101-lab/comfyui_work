@@ -1,0 +1,4 @@
+portrait photograph of a mature woman, short black hair, remarkable detailed pupils blue eyes, long eyelashes, natural skin texture with visible pores and light freckles, unretouched realistic skin, soft natural lighting, sitting in a coffee shop, cup of coffee, wearing rose colored silk spaghetti strap tank top, black micro mini skirt, shot on Kodak Portra 400 film, color graded, shallow depth of field, upper-body view, sharp focus, highly detailed, professional photography, 8k resolution
+
+
+lustify v5, cfg 5.5, 60 steps, rho 4.0, 1024 x 1024, sigma_max 14.61, sigma_min 0.03

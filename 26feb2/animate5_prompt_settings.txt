@@ -1,0 +1,10 @@
+FAST MOTION ACTION she throws the coffee mug over her shoulder and there is a massive explosion in the building, the camera dolly out to maintain sharp focus on her face. she keeps her mouth closed  
+
+wan2.2_remix_nsfw_i2v_14b_low_lighting_v2.0 (same for high) with SVI v2 Pro Lora
+640x640 source image (animate1 last frame) to keep coffee cup
+640x640 out, 97 frames, modelsamplingSD3 5 on high and low, KSampler (advanced) high, add noise, random seed, 8 steps, cfg 1, sampler euler, scheduler beta, start 0 stop 5 return with leftover noise true. KSampler (advanced) low, diable noise, fixed seed, steps 8, cfg 1, euler, beta, step 4 start, step 8 end.
+21 Frame overlap
+
+25fps out, video/nvenc_h264-mp4, megabit true.
+
+nvidia 5090 generation time 90 seconds
