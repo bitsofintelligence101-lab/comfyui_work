@@ -277,7 +277,7 @@ def down_scale_image(img, target_height=360, target_width=640):
 
 if __name__ == "__main__":
     # Example usage
-    video_path = r"C:\Users\jared\Documents\code\local_jarvis\xserver\z\video\ComfyUI_01843_.mp4"
+    video_path = r"C:\Users\x\Documents\code\local_jarvis\xserver\z\video\ComfyUI_01843_.mp4"
     
     # Allow command line argument
     if len(sys.argv) > 1:

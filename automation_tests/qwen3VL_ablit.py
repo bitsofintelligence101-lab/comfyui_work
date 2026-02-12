@@ -324,7 +324,7 @@ if __name__ == "__main__":
     chat_model = Qwen3VLChat(cuda_device=0)
 
     # Optional: Run demo inference
-    demo_image_path = r"C:\Users\jared\Documents\code\local_jarvis\xserver\z\video\ComfyUI_01373__optical_flow.png"
+    demo_image_path = r"C:\Users\x\Documents\code\local_jarvis\xserver\z\video\ComfyUI_01373__optical_flow.png"
     if os.path.exists(demo_image_path):
         # You can customize the objective_prompt for different animation goals
         objective_prompt = "The woman takes off her robe"

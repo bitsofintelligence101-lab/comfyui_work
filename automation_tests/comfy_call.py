@@ -53,7 +53,7 @@ class ComfyCall:
     LEG_LIFTED_STRENGTH = 1.0
 
     
-    OUTPUT_DIR = "C:\\Users\\jared\\Documents\\code\\local_jarvis\\xserver\\autogen\\"
+    OUTPUT_DIR = "C:\\Users\\x\\Documents\\code\\local_jarvis\\xserver\\autogen\\"
     # =================================================
 
     def __init__(self):
@@ -523,5 +523,5 @@ if __name__ == "__main__":
     comfy = ComfyCall()
     comfy.aggressive_cleanup()
     # You can replace these with actual test values if needed
-    #comfy.run(r"C:\Users\jared\Documents\code\local_jarvis\xserver\autogen\jan20_diana\1768921264_5_end.png", "blowjob head motion. She rapidly moves her lips down the penis shaft, the penis goes all the way in to her mouth and throat until her lips are on his groin. Then pulls her head backwards  and the penis shaft almost exits her mouth. then goes back down towards his groin agian. repeats the motion quickly. Camera close-up POV",lora='blowjob')
-    #comfy.edit_image(r"C:\Users\jared\Documents\code\local_jarvis\xserver\autogen\shoots\1769052641_image.png", "The same woman sitting with legs spread, her arms leaning back behind her. direct eye contact with viewer. Keep hairstyle, clothing, and facial features identical. Real skin detail, detailed individual hair strands. remarkable eye details. low-level angle from her waist, medium-shot")
+    #comfy.run(r"C:\Users\x\Documents\code\local_jarvis\xserver\autogen\jan20_diana\1768921264_5_end.png", "blowjob head motion. She rapidly moves her lips down the penis shaft, the penis goes all the way in to her mouth and throat until her lips are on his groin. Then pulls her head backwards  and the penis shaft almost exits her mouth. then goes back down towards his groin agian. repeats the motion quickly. Camera close-up POV",lora='blowjob')
+    #comfy.edit_image(r"C:\Users\x\Documents\code\local_jarvis\xserver\autogen\shoots\1769052641_image.png", "The same woman sitting with legs spread, her arms leaning back behind her. direct eye contact with viewer. Keep hairstyle, clothing, and facial features identical. Real skin detail, detailed individual hair strands. remarkable eye details. low-level angle from her waist, medium-shot")

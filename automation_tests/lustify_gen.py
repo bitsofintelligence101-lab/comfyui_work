@@ -298,7 +298,7 @@ class ImageGenerator:
     def text_to_image(self, 
                  prompt, 
                  output_file="output.png",
-                 main_output_dir = "C:\\Users\\jared\\Documents\\code\\local_jarvis\\xserver",
+                 main_output_dir = "C:\\Users\\x\\Documents\\code\\local_jarvis\\xserver",
                  sub_folder = "autogen",
                  shoot_folder = "shoots",
                  output_dir=None,

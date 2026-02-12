@@ -32,7 +32,7 @@ import concurrent.futures
 import torch
 
 URL_BASE = "http://localhost:5055"
-GCLOUD_STORAGE_BUCKET = "boi_xserver"
+GCLOUD_STORAGE_BUCKET = "x"
 COMFY = ComfyCall()#connect to comfy server
 
 # PRIMARY WORKFLOW FUNCTIONS
